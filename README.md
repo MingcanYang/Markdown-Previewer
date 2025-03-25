@@ -7,12 +7,11 @@ This project is a Markdown Previewer built with React. It converts Markdown synt
 ## Table of Contents
 
 - [Overview](#overview)
+- [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Overview
 
