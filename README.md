@@ -1,6 +1,8 @@
 # React Markdown Previewer
 
 This project is a Markdown Previewer built with React. It converts Markdown syntax into HTML in real-time, providing a live preview as you type.
+<img width="1368" alt="Screenshot 2025-03-25 at 16 05 47" src="https://github.com/user-attachments/assets/4b3929b4-ddaf-48cb-be37-b07c46089892" />
+
 
 ## Table of Contents
 
